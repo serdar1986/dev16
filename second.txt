@@ -3,3 +3,19 @@ second file. some more changes directly on github.com
 How to commit directly on Github?
     - Click on Commit changes.
     - write commit message.
+    - commit chages.
+    
+    
+This repo (on Github.com) is called remote repository.
+
+Local machine --> Remote
+
+Open Repo in VS code
+
+Change some file
+Commit locally
+    - stage changes
+    - write message
+    - commit
+Move changes from local git to Github.com
+    - PUSH or SYNCH
